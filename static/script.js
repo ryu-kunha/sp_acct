@@ -4,6 +4,7 @@ const studentAccounts = [
   { id: "20240102", name: "이지은", email: "20240102@school.edu", password: "je1234" },
   { id: "20240103", name: "박서준", email: "20240103@school.edu", password: "sj1234" }
   { id: "20240104", name: "홍길동", email: "20240104@school.edu", password: "sj1234" }
+  { id: "20240105", name: "강감찬", email: "20240105@school.edu", password: "sj1234" }
 ];
 
 // 폼 제출 시 검색 수행
